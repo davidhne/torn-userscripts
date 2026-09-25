@@ -1,2 +1,2 @@
 # torn-userscripts
-Scipts made for TORN City
+Scripts made for TORN City
